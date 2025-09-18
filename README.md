@@ -27,7 +27,7 @@
   
 
 <!-- Social -->
-<table width="100%" align="center">
+<!-- <table width="100%" align="center">
 <tr>
 <td align="center">
 <a href="https://blog.shanganma.com">
@@ -39,10 +39,10 @@
 </a>
 </p>
 
-</td>
+</td> -->
 
 
-<td align="center">
+<!-- <td align="center">
 <a href="https://blog.shanganma.com">
 <strong>  </strong>
 <br />
@@ -64,20 +64,20 @@
 </p>
 </td>
 
-<td align="center">
-<a href="https://blog.shanganma.com">
+<td align="center"> -->
+<!-- <a href="https://blog.shanganma.com">
 <br />
 <p>
 <img height="100" alt="Music" src="images/4.jpg"> 
 </a>
 </p>
 </td>
-</tr>
+</tr> -->
 
 
 <!-- Social 2 -->
 
-<tr>
+<!-- <tr>
 <td align="center">
 <a href="https://blog.shanganma.com">
 <p>
@@ -115,7 +115,9 @@
 </tr>
 </table>
 
-<br />
+<br /> -->
+
+
 <div align="center">
 <a href="https://github.com/longtianaowei/longtianaowei/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
