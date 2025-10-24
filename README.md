@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="images/head.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <!-- <img src="images/head.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" /> -->
   <br />
   <br />
 	<img height="50" alt="My Name is Javeley and I like" src="./images/psersonal_note.svg" />
